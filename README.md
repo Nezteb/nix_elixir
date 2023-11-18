@@ -96,6 +96,7 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
   - https://github.com/ublue-os/fleek
 - Flox
   - https://github.com/flox/flox
+  - https://flox.dev/blog/homebrew
 
 ### Text Resources
 
@@ -111,6 +112,7 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
 - https://ejpcmac.net/blog/tags/nix/
 - https://lucperkins.dev/blog/home-manager/
 - https://dee.underscore.world/blog/home-manager-flakes/
+- https://juliu.is/tidying-your-home-with-nix/
 - https://www.channable.com/tech/nix-is-the-ultimate-devops-toolkit
 - https://grahamc.com/blog/nix-and-layered-docker-images/
 - https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/
