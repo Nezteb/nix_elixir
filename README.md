@@ -72,7 +72,6 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
 - Home Manager
   - https://github.com/nix-community/home-manager
   - https://nix-community.github.io/home-manager/index.html#id-1.2
-  - https://github.com/Misterio77/nix-starter-configs
 - Devenv
   - https://github.com/cachix/devenv
   - https://devenv.sh/guides/using-with-flakes/
@@ -98,6 +97,13 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
   - https://github.com/flox/flox
   - https://flox.dev/blog/homebrew
 
+### Example Configs
+
+- https://github.com/Misterio77/nix-starter-configs
+- https://github.com/mitchellh/nixos-config
+- https://github.com/hauleth/nix-elixir
+- https://github.com/search?q=language%3Anix+Elixir+stars%3A%3E1&type=repositories&s=updated&o=desc
+
 ### Text Resources
 
 - https://github.com/nix-community/awesome-nix
@@ -110,6 +116,7 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
 - https://ersei.net/en/blog/tag:nixos
 - https://earthly.dev/blog/what-is-nix/
 - https://ejpcmac.net/blog/tags/nix/
+- https://checkoway.net/musings/nix/
 - https://lucperkins.dev/blog/home-manager/
 - https://dee.underscore.world/blog/home-manager-flakes/
 - https://juliu.is/tidying-your-home-with-nix/
