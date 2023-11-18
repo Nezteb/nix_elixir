@@ -1,4 +1,6 @@
-# Nix Elixir
+# Going Full Functional: Using Nix to build Erlang and Elixir Projects
+
+Eventually this will turn into a blog post/guide/tutorial of intermediate "difficulty".
 
 ### Goals
 
@@ -7,13 +9,19 @@
 3. Use Nix (devenv/devbox?) to build container
 4. Change Erlang/Elixir versions based on current project
 5. Editor and language server setup
-6. Set up GitHub CI (hydra?)
+6. Set up GitHub CI
 7. Deploy Nix to Fly
 8. Document troubleshooting, uninstalling, reinstalling
 
 #### Questions / TODO
 
-- Which install "method" should we use?
+- Get Nix working on my machine...
+  - https://github.com/NixOS/nix/issues/1402
+  - https://github.com/NixOS/nix/issues/4716
+  - https://github.com/NixOS/nix/issues/6078
+  - https://github.com/NixOS/nix/issues/6675
+  - https://github.com/NixOS/nix/issues/6540 
+- For goal #3, which install "method" should we use?
   -  Vanilla?
     - `nix-env` (installs permanently)
       - People seem to recommend against this and to use `home-manager`.
@@ -30,7 +38,9 @@
     - https://devenv.sh/guides/using-with-flakes/ 
   -  Declarative without flakes?
     - `configuration.nix` with `environment.systemPackages` set
-- Hardcore mode: use NixOS container image instead of Debian?
+- For goal #3, should I use the NixOS container image instead of Debian?
+- For goal #6, is it worth considering using Hydra?
+  - https://nixos.wiki/wiki/Hydra
 
 ## Outline/Snippets
 
