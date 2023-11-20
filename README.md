@@ -41,6 +41,7 @@ Eventually this will turn into a blog post/guide/tutorial of intermediate "diffi
 - For goal #3, should I use the NixOS container image instead of Debian?
 - For goal #6, is it worth considering using Hydra?
   - https://nixos.wiki/wiki/Hydra
+- For goal #7, check out https://github.com/fly-apps/nix-base
 
 ## Outline/Snippets
 
