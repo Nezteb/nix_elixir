@@ -112,6 +112,7 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
 - https://ianthehenry.com/posts/how-to-learn-nix/
 - https://paperless.blog/nix-shell-template
 - https://jvns.ca/categories/nix/
+- https://animeshz.github.io/site/notes/20-29--DevEnvironment/21--Linux/21.02-Nix.html
 - https://shopify.engineering/what-is-nix
 - https://serokell.io/blog/nix
 - https://ersei.net/en/blog/tag:nixos
