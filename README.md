@@ -39,8 +39,9 @@ Eventually this will turn into a blog post/guide/tutorial of intermediate "diffi
   -  Declarative without flakes?
     - `configuration.nix` with `environment.systemPackages` set
 - For goal #3, should I use the NixOS container image instead of Debian?
-- For goal #6, is it worth considering using Hydra?
+- For goal #6, is it worth considering using Hydra/NixOps?
   - https://nixos.wiki/wiki/Hydra
+  - https://github.com/NixOS/nixops?
 - For goal #7, check out https://github.com/fly-apps/nix-base
 
 ## Outline/Snippets
