@@ -66,6 +66,9 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
   - https://zero-to-nix.com/start
   - https://zero-to-nix.com/concepts
   - https://nixos.org/manual/nix/stable/installation/installing-binary#macos-installation
+    - Note: Do not use this. Use:
+      - https://determinate.systems/posts/determinate-nix-installer
+      - https://determinate.systems/posts/graphical-nix-installer
   - https://nixos.org/guides/how-nix-works
   - https://nixos.org/guides/nix-pills/pr01
   - https://github.com/nixos/nix.dev
