@@ -101,6 +101,8 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
 - Flox
   - https://github.com/flox/flox
   - https://flox.dev/blog/homebrew
+- Snowfall
+  - https://snowfall.org/guides/lib/quickstart/
 
 ### Example Configs
 
