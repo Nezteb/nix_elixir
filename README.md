@@ -107,6 +107,7 @@ Commands: `nix shell` “installs” requested packages into an ephemeral shell 
 - https://github.com/Misterio77/nix-starter-configs
 - https://github.com/mitchellh/nixos-config
 - https://github.com/hauleth/nix-elixir
+- https://github.com/the-nix-way/dev-templates/blob/main/elixir/flake.nix
 - https://github.com/search?q=language%3Anix+Elixir+stars%3A%3E1&type=repositories&s=updated&o=desc
 
 ### Text Resources
